@@ -1,2 +1,2 @@
 # ExtensionsMethodsFramework
-Framework to use Extension Methodos for C#
+Framework to use Extension Methods for C#
